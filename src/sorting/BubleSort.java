@@ -1,7 +1,7 @@
 package sorting;
 
 public class BubleSort {
-    static  void bubleSort(int []arr){
+  public   static  void bubleSort(int []arr){
         int n= arr.length;
         boolean swapped;
         for(int i=0;i<n-1;i++){
