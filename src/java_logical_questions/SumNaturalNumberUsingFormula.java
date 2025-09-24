@@ -8,7 +8,7 @@ public class SumNaturalNumberUsingFormula {
         System.out.println("Enter a number");
          int n = sc.nextInt();
 
-         // this is the formula to calculate the sum
+         // this is the formula to calculate the sum more fast and efficent
 
         int s = n*(n+1)/2;
 
