@@ -27,3 +27,5 @@ class MyRunnable implements Runnable {
         t2.start();
     }
 }
+
+// this is using the interface of the runnable thread where this is most used in the professional way
