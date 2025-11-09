@@ -33,3 +33,13 @@ public class RaceConditionDemo {
 
 // the purpose of the syncronization is to allow only one thread to enter the method only after finishing execution
 // that thread only the other thread is allowed to enter the method
+// use of the bock syncronization
+//class Counter {
+//    int count = 0;
+//
+//    public void increment() {
+//        synchronized (this) {
+//            count++;
+//        }
+//    }
+//}
