@@ -15,3 +15,4 @@ restarting the dsa
 exam preparation
 the dasa section of the collections
 starting with lists
+starting with arrays
