@@ -14,3 +14,4 @@ currently moveing to another plan
 restarting the dsa
 exam preparation
 the dasa section of the collections
+starting with lists
